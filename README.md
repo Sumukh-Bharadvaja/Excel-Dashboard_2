@@ -26,7 +26,7 @@ The following project tasks are required to be performed in Excel:
 * Use the data of bike sales
 * Prepare a pivot table of Purchases made based on Marital Status
 * prepare a pivot table of Purchases made by degree of Education
-* prepare a pivot table of Purchases made based on on Occupation
+* prepare a pivot table of Purchases made based on Occupation
 * Create slicers with respect to Gender, Region and Commute Distance
 
 
